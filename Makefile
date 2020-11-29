@@ -1,0 +1,2 @@
+download:
+	make -C data
